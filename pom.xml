@@ -23,7 +23,7 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <configuration>
                     <webXml>src/main/resources/WEB_INF/web.xml</webXml>
-                    <warName>goit</warName>
+                    <warName>todo</warName>
                 </configuration>
             </plugin>
         </plugins>
